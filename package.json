@@ -1,0 +1,28 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "Package for three.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\ \"Error: no test spcified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohanRaghav/Three.js.git"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "Rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohanRaghav/Three.js/issues"
+  },
+  "homepage": "https://github.com/RohanRaghav/Three.js#readme",
+  "dependencies": {
+    "three": "^0.166.1"
+  },
+  "devDependencies": {
+    "buffer": "^6.0.3"
+  }
+}
